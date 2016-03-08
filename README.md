@@ -1,2 +1,1 @@
-# bootstrap
-life bootstrap :smile:
+
