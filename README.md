@@ -1,0 +1,2 @@
+# bootstrap
+life bootstrap :smile:
